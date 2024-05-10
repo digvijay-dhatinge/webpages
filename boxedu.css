@@ -1,0 +1,93 @@
+
+.siteimg,.relatedinfo{
+    display: flex;
+	background: black;
+    text-align: center;
+    margin-top: 0px;
+
+}
+.navbar,.navlist,.navitem{
+	display: inline-block;
+	margin-left: 80px;
+
+}
+.realme{
+	background: black;
+
+}
+.navbar,.navlist,.navitem,.nav-bared{
+	text-decoration: none;
+	color: floralwhite;
+	font-size: 25px;
+	font-weight: bold;
+	font-style: italic;  
+	margin: 6px 0 0 35px;
+
+
+
+
+}
+.navbar,.navlist{
+	list-style-type: none;
+	position: fixed;
+
+}
+
+
+	
+
+.relatedinfo,p{
+	font-size: 40px;
+	color: orange;
+	margin-top: 80px;
+
+	padding: 20px;
+	
+	
+}
+.img_1,.img_2,.img_3,.img_4{
+
+	display: inline-block;
+    
+	height: 50px;
+	margin: 20px;
+	margin-left: 37px;
+	
+
+	
+}
+.images{
+	background: #ca9791e0;
+	
+
+
+
+}
+.box{
+	width: 100%;
+	height: 300px;
+	background: #d0e0e1e8;
+
+}
+
+.box,p3{
+	color: BLACK;
+
+	font-size: 25px;
+	text-align: center;
+	margin-top:;
+}
+.container,.services,.image1{
+	display: inline-block;
+	
+	
+	background: black;
+.container,.services,.image2{
+	
+}
+.images{
+
+	background: black;
+	
+
+}
